@@ -1,0 +1,15 @@
+// src/assets/styles/main.scss
+$berkeley-blue: #003262;
+$california-gold: #FDB515;
+// Other color variables
+
+body {
+    font-family: 'Inder', sans-serif;
+}
+
+.header {
+    background-color: $berkeley-blue;
+    color: $california-gold;
+}
+
+// Additional styles
